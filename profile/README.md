@@ -1,6 +1,6 @@
 # Ekubo Protocol
 
-Ekubo is the most powerful AMM on Starknet, featuring concentrated liquidity, extensibility, and greater capital efficiency than ever.
+Ekubo is the most powerful AMM ever, featuring 100x concentrated liquidity, extensibility, and highly optimized smart contracts to provide the best execution and LP returns.
 
 Read more about the protocol in our [docs](https://docs.ekubo.org).
 
